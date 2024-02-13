@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pravin130
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning M.tech
 - 💞️ I’m looking to collaborate on youtube videos
 - 📫 How to reach me plackalpravin65@gmail.com
 
